@@ -21,7 +21,7 @@ def download_audio(url, output_path, filename):
         print("Error:", str(e))
 
 if __name__ == "__main__":
-    url = "https://www.youtube.com/watch?v=2aEs3Mv4uPw"
-    output_path = "C:/Users/Steve/Desktop"
+    url = "<Youtube Link>"
+    output_path = "<File location>"
     filename = "audio_file.m4a"
     download_audio(url, output_path, filename)
