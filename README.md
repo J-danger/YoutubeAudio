@@ -1,6 +1,6 @@
 # Youtube Audio
 
-Downloads youtube video in desired audio or video format. 
+Downloads youtube video audio.
 
 # Req
 - Python
